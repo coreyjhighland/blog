@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/coreyjhighland/blog#readme",
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.0",
+    "morgan": "^1.9.0",
   }
 }
